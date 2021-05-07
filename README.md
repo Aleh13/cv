@@ -10,4 +10,6 @@
 -----------------------  
 **SUMMARY OF QUALIFICATION**
 
- Ruby, Rails, Postgres, git, Rspec, 
+ Ruby, Rails, Postgres, git, Rspec
+ 
+ My skills: Create CRUD applications, connect, configure Postgresql, make simple tests Rspec
