@@ -12,7 +12,7 @@
 
  Ruby, Rails, Postgres, git, Rspec
  
- My skills: Create CRUD applications, connect, configure Postgresql, make simple tests Rspec
+ My skills: Create CRUD applications. Connect, configure Postgresql, Make simple tests Rspec
  
  
 **LANGUAGES**
