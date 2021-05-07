@@ -18,3 +18,11 @@
 **LANGUAGES**
 
  English -- Beginner
+ 
+ 
+ 
+**EDUCATION**
+
+Belarusian State University of Informatics and Radioelectronics
+
+
