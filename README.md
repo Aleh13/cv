@@ -13,3 +13,8 @@
  Ruby, Rails, Postgres, git, Rspec
  
  My skills: Create CRUD applications, connect, configure Postgresql, make simple tests Rspec
+ 
+ 
+**LANGUAGES**
+
+ English -- Beginner
