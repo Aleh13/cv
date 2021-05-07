@@ -1,6 +1,6 @@
 **Name:**                 Oleg Kazak
 
-**Mobile:**               +375295060333
+**Mobile:**               +375 29 5060333
 
 **E-mail:**               q4wk13\@gmail.com
 
