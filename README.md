@@ -24,5 +24,7 @@
 **EDUCATION**
 
 Belarusian State University of Informatics and Radioelectronics
+Belarusian State Pedagogical University Named After Maxim Tank
+EPAM RD Laboratory - Building Modern Web with Ruby in Clouds
 
 
